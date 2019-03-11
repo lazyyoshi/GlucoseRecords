@@ -15,7 +15,7 @@ A sample program for iOS widget and SQLite3 on Pythonista3. This program is base
 
 #Usage  
 
-<img src="http://i-gallop.luna.weblife.me/images/GlucoseRecords/GlucoseRD.PNG" width="300px">  
+<img src="http://i-gallop.luna.weblife.me/images/GlucoseRecords/GlucoseRD.PNG" width="400px">  
 
 
 #Licence
@@ -23,6 +23,7 @@ This software is released under MIT License, see LICENSE.
 
 #Authors
 
-#References
+#References  
+
 [Pythonista Manual Top](http://omz-software.com/pythonista/docs/)
 [About Widget](http://omz-software.com/pythonista/docs/ios/pythonista.html)
