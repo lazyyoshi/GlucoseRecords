@@ -13,7 +13,8 @@ A sample program for iOS widget and SQLite3 on Pythonista3. This program is base
 3. Run
 4. In case you would like to use this application as widget, please [Use in "Today"] button.
 
-#Usage
+#Usage  
+
 <img src="http://i-gallop.luna.weblife.me/images/GlucoseRecords/GlucoseRD.PNG" width="300px">  
 
 
