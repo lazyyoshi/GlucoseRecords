@@ -7,7 +7,8 @@ A sample program for iOS widget and SQLite3 on Pythonista3. This program is base
 * Pythonista3 Interpreter 3.6
 * iOS 10 or later.
 
-#Setup
+#Setup  
+
 1. Copy following 3 files to same holder in your Pythonista file system.  addBSW.p dbcont.pt dbs.db
 2. Open addBSW.py
 3. Run
@@ -18,12 +19,14 @@ A sample program for iOS widget and SQLite3 on Pythonista3. This program is base
 <img src="http://i-gallop.luna.weblife.me/images/GlucoseRecords/GlucoseRD.PNG" width="400px">  
 
 
-#Licence
+#Licence  
+
 This software is released under MIT License, see LICENSE.
 
-#Authors
+#Authors  
 
-#References  
+
+#References   
 
 [Pythonista Manual Top](http://omz-software.com/pythonista/docs/)
 [About Widget](http://omz-software.com/pythonista/docs/ios/pythonista.html)
