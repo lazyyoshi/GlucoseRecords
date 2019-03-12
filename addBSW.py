@@ -1,9 +1,4 @@
 #!python3
-
-'''
-This widget script simply shows the current local IP address in a label.
-'''
-
 import appex, ui
 import os
 import console
